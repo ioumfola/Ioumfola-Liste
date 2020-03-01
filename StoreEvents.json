@@ -107,7 +107,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -211,8 +211,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "alphabeavers",
-		"price": 600,
+		"abr": "alphabieber",
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -297,7 +297,7 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
