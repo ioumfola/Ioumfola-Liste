@@ -7,7 +7,7 @@
 	},
 	{
 		"abr": "tornados",
-		"price": 15000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,13 +82,13 @@
 	},
 	{
 		"abr": "giftregen",
-		"price": 6500,
-		"karmatype": "Doom"
+		"price": 5000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "vulkanwinter",
-		"price": 3000,
-		"karmatype": "Doom"
+		"price": 3750,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "eclipse",
@@ -218,12 +218,12 @@
 	{
 		"abr": "luftangriff",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "tunnelangriff",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "belagerung",
@@ -233,16 +233,16 @@
 	{
 		"abr": "mechangriff",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "käferbefall",
 		"price": 2000,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "menschenjäger",
-		"price": 1000,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
@@ -277,7 +277,7 @@
 	},
 	{
 		"abr": "inspiration",
-		"price": 501,
+		"price": 500,
 		"karmatype": "Good"
 	}
 	],
