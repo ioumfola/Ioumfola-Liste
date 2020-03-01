@@ -37,16 +37,15 @@
     <main role="main">
         <div class="jumbotron">
             <div class="container">
-                <h1 class="display-3">TwitchToolkit von hodlhodl</h1>
+                <h1 class="display-3">TwitchToolkit</h1>
                 <p>TwitchToolkit lässt euch mit meinem Rimworld-Run interagieren indem ihr mir Items zukommen lasst oder gute/ schlechte Events auslöst</p>
                 <ul class="list-group">
                     <li class="list-group-item">!bal - Münzen und Karma abfragen</li>
                     <li class="list-group-item">!buy - !buy Itemname Anzahl - Kauft Item in angegebener Menge - zb !buy medizin 20</li>
                     <li class="list-group-item">!buy - !buy Event (Stärke) - Startet Event (mit angegebener Stärke) - zb !buy angriff 2000</li>
                     <li class="list-group-item">!karma - Erklärung Karma</li>
-                    <li class="list-group-item">!liste - Link zu dieser Liste</li>
                     <li class="list-group-item">!income - zeigt Münzeinkommen an</li>
-                    <li class="list-group-item">!nametag - fügt dich zur Liste der nächsten Kolonisten hinzu</li>
+                    <li class="list-group-item">!nametag - fügt dich zur Liste der nächsten Kolonisten hinzu (Kostet 100 Münzen)</li>
                     <li class="list-group-item">!mypawnstory - zeigt Geschichte deines Kolonistens an</li>
                     <li class="list-group-item">!mypawnskills - zeigt Fähigkeiten deines Kolonistens an</li>
                 </ul>
@@ -67,7 +66,7 @@
                                     </button>
                                 </div>
                                 <div class="form-group row">
-                                    <label class="col-sm-2 col-form-label" for="">Price Between:</label>
+                                    <label class="col-sm-2 col-form-label" for="">Preisspanne:</label>
                                     <div class="col-sm-2">
                                         <input type="number" class="form-control" id="item-price-min" placeholder="0">
                                     </div>
@@ -90,17 +89,17 @@
                             </div>
                             <p>
                                 <button type="button" class="btn btn-primary sort" data-sort="abr">
-                                    Sort
+                                    Sortieren nach Name
                                 </button>
                                 <button type="button" class="btn btn-primary sort" data-sort="price">
-                                    Sort by Price
+                                    Sortieren nach Preis
                                 </button>
                             </p>
                             <table class="table items">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="abr">Name</th>
-                                    <th scope="col" class="sort" data-sort="price">Price</th>
-                                    <th scope="col" class="sort" data-sort="category">Category</th>
+                                    <th scope="col" class="sort" data-sort="price">Preis</th>
+                                    <th scope="col" class="sort" data-sort="category">Kategorie</th>
                                 </tr>
                                 <tbody class="list">
                                 </tbody>
@@ -115,23 +114,23 @@
                                 <div class="input-group-prepend">
                                     <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
                                 </div>
-                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
+                                <input type="text" class="form-control search" aria-label="Suchen" aria-describedby="inputGroup-sizing-sm">
                             </div>
                             <p>
                                 <button type="button" class="btn btn-primary sort" data-sort="abr">
-                                    Sort
+                                    Sortieren nach Name
                                 </button>
                                 <button type="button" class="btn btn-primary sort" data-sort="price">
-                                    Sort by Price
+                                    Sortieren nach Preis
                                 </button>
                                 <button type="button" class="btn btn-primary sort" data-sort="karmatype">
-                                    Sort by Karma
+                                    Sortieren nach Karma
                                 </button>
                             </p>
                             <table class="table events">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="abr">Name</th>
-                                    <th scope="col" class="sort" data-sort="price">Price</th>
+                                    <th scope="col" class="sort" data-sort="price">Preis</th>
                                     <th scope="col" class="sort" data-sort="karmatype">Karma</th>
                                 </tr>
                                 <tbody class="list">
@@ -158,8 +157,8 @@
             <p class="float-right">
                 <a href="#">Back to top</a>
             </p>
-            <p>Album example is © Bootstrap, but please download and customize it for yourself!</p>
-            <p>New to Bootstrap? <a href="../../">Visit the homepage</a> or read our <a href="../../getting-started/">getting started guide</a>.</p>
+            <p>Liste Stand 1.3.2020</p>
+            <p>TwitchToolKit wurde von Twitch.tv/hodlhodl erstellt</a>.</p>
         </div>
     </footer>
     <!-- Optional JavaScript -->
