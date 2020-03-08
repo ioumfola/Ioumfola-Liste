@@ -1,15 +1,15 @@
 {
 	"traits" : [
 	{
-		"test": "trait1",
+		"Name": "trait1",
 		"Typ": "Gut",
 		"Erklärung": "Gut"
 	},
 	{
-		"abr": "trait2",
+		"Name": "trait2",
 		"Typ": "1500",
 		"Erklärung": "Bad"
 	},
   ],
-	"total": 57
+	"total": 2
 }
