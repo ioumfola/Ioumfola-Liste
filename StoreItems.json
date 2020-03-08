@@ -2957,7 +2957,13 @@
 		"price": 200,
 		"category": "Kopfbedeckung",
 		"defname": "Apparel_HatTop"
+	},
+	{
+		"abr": "instabileenergiezelle",
+		"price": 107,
+		"category": "Spezial",
+		"defname": "UnstablePowerCell"
 	}
 	],
-	"total": 493
+	"total": 494
 }
