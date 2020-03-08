@@ -1,0 +1,15 @@
+{
+	"traits" : [
+	{
+		"test": "trait1",
+		"price": 750,
+		"Typ": "Gut"
+	},
+	{
+		"abr": "trait2",
+		"price": 1500,
+		"Typ": "Bad"
+	},
+  ],
+	"total": 57
+}
