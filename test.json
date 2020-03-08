@@ -1,6 +1,6 @@
  <ul class="list-group">
                     <li class="list-group-item">!bal - Münzen und Karma abfragen</li>
-                    <li class="list-group-item">!buy - !buy Itemname Anzahl - Kauft Item in angegebener Menge - zb !buy medizin 20</li>
+                    <li class="list-group-item">!buy - !buy Itemname Anzahl - Kauft Item in angegebener Menge - zb !buy medizin 40</li>
                     <li class="list-group-item">!buy - !buy Event (Stärke) - Startet Event (mit angegebener Stärke) - zb !buy angriff 2000</li>
                     <li class="list-group-item">!karma - Erklärung Karma</li>
                     <li class="list-group-item">!income - zeigt Münzeinkommen an</li>
