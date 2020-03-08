@@ -3,12 +3,12 @@
 	{
 		"Name": "trait1",
 		"Typ": "Gut",
-		"Erklärung": "Gut"
+		"Erklarung": "Gut"
 	},
 	{
 		"Name": "trait2",
 		"Typ": "1500",
-		"Erklärung": "Bad"
+		"Erklarung": "Bad"
 	},
   ],
 	"total": 2
