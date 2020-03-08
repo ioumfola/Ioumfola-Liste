@@ -2,13 +2,13 @@
 	"traits" : [
 	{
 		"test": "trait1",
-		"price": 750,
-		"Typ": "Gut"
+		"Typ": "Gut",
+		"Erklärung": "Gut"
 	},
 	{
 		"abr": "trait2",
-		"price": 1500,
-		"Typ": "Bad"
+		"Typ": "1500",
+		"Erklärung": "Bad"
 	},
   ],
 	"total": 57
