@@ -196,7 +196,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "skillincrease",
+		"abr": "zufälligerskill",
 		"price": 200,
 		"karmatype": "Good"
 	},
@@ -212,7 +212,7 @@
 	},
 	{
 		"abr": "angriff",
-		"price": 750,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -261,6 +261,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "levelskill",
+		"price": 100,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "erhalteeigenschaft",
 		"price": 2000,
 		"karmatype": "Good"
@@ -281,5 +286,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 56
+	"total": 57
 }
