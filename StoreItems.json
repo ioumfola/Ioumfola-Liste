@@ -57,7 +57,7 @@
 	{
 		"abr": "antimateriegefechtskopf",
 		"price": 2000,
-		"category": "GW Granaten",
+		"category": "Mörsergranaten",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
@@ -351,7 +351,7 @@
 	{
 		"abr": "brandgranate",
 		"price": 100,
-		"category": "GW Granaten",
+		"category": "Mörsergranaten",
 		"defname": "Shell_Incendiary"
 	},
 	{
@@ -535,12 +535,6 @@
 		"defname": "Meat_Elk"
 	},
 	{
-		"abr": "electricstonecutter'stable",
-		"price": 500,
-		"category": "Produktion",
-		"defname": "TableStonecutterElectric"
-	},
-	{
 		"abr": "elefant",
 		"price": 1250,
 		"category": "Animal",
@@ -573,7 +567,7 @@
 	{
 		"abr": "emp-granate",
 		"price": 100,
-		"category": "GW Granaten",
+		"category": "Mörsergranaten",
 		"defname": "Shell_EMP"
 	},
 	{
@@ -855,7 +849,7 @@
 	{
 		"abr": "he-granate",
 		"price": 100,
-		"category": "GW Granaten",
+		"category": "Mörsergranaten",
 		"defname": "Shell_HighExplosive"
 	},
 	{
@@ -1329,7 +1323,7 @@
 	{
 		"abr": "löschschaumgranate",
 		"price": 100,
-		"category": "GW Granaten",
+		"category": "Mörsergranaten",
 		"defname": "Shell_Firefoam"
 	},
 	{
@@ -2963,7 +2957,61 @@
 		"price": 107,
 		"category": "Spezial",
 		"defname": "UnstablePowerCell"
-	}
+	},
+	{
+		"abr": "landeplatzleuchtsignal",
+		"price": 185,
+		"category": "Diverses",
+		"defname": "ShipLandingBeacon"
+	},
+	{
+		"abr": "bodenleuchte(blau)",
+		"price": 114,
+		"category": "Möbel",
+		"defname": "FloorLampB"
+	},
+	{
+		"abr": "bodenleuchte(grün)",
+		"price": 114,
+		"category": "Möbel",
+		"defname": "FloorLampG"
+	},
+	{
+		"abr": "bodenleuchte(rot)",
+		"price": 114,
+		"category": "Möbel",
+		"defname": "FloorLampR"
+	},
+	{
+		"abr": "autocleaner",
+		"price": 2000,
+		"category": "Gegenstände",
+		"defname": "AutocleanerItem"
+	},
+	{
+		"abr": "boomaphant",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "Boomaphant"
+	},
+	{
+		"abr": "boomaphantfleisch",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Boomaphant"
+	},
+	{
+		"abr": "electricstonecutter'stable",
+		"price": 567,
+		"category": "Produktion",
+		"defname": "TableStonecutterElectric"
+	},
+	{
+		"abr": "medicbag",
+		"price": 708,
+		"category": "Kleidung",
+		"defname": "Apparel_flyfire2002_MedicBag"
+	},
 	],
-	"total": 494
+	"total": 504
 }
