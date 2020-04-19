@@ -61,11 +61,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "blitzsturm",
-		"price": 250,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "kältewelle",
 		"price": 750,
 		"karmatype": "Bad"
@@ -161,11 +156,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "herdenmigration",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "farmtiere",
 		"price": 500,
 		"karmatype": "Good"
@@ -202,7 +192,7 @@
 	},
 	{
 		"abr": "party",
-		"price": 250,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -237,7 +227,7 @@
 	},
 	{
 		"abr": "käferbefall",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -247,6 +237,11 @@
 	},
 	{
 		"abr": "krankheit",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "disease",
 		"price": 1000,
 		"karmatype": "Bad"
 	},
@@ -276,7 +271,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "geschlechtwechsel",
+		"abr": "geschlechterwechsel",
 		"price": 500,
 		"karmatype": "Neutral"
 	},
@@ -286,5 +281,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 57
+	"total": 56
 }
