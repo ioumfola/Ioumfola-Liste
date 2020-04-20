@@ -3006,12 +3006,7 @@
 		"category": "Produktion",
 		"defname": "TableStonecutterElectric"
 	},
-	{
-		"abr": "medicbag",
-		"price": 708,
-		"category": "Kleidung",
-		"defname": "Apparel_flyfire2002_MedicBag"
-	},
+
 	],
-	"total": 504
+	"total": 503
 }
