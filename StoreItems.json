@@ -289,30 +289,6 @@
 		"defname": "FloorLamp"
 	},
 	{
-		"abr": "bodenlicht(ecke)",
-		"price": 50,
-		"category": "Möbel",
-		"defname": "FloorLightCorner"
-	},
-	{
-		"abr": "bodenlicht(gerade)",
-		"price": 50,
-		"category": "Möbel",
-		"defname": "FloorLightStraight"
-	},
-	{
-		"abr": "bodenlichtpfad(cap)",
-		"price": 500,
-		"category": "Möbel",
-		"defname": "FloorLightPathCap"
-	},
-	{
-		"abr": "bodenlichtpfad(gerade)",
-		"price": 50,
-		"category": "Möbel",
-		"defname": "FloorLightPathStraight"
-	},
-	{
 		"abr": "bohrarm",
 		"price": 750,
 		"category": "Prothetisch",
@@ -2964,24 +2940,8 @@
 		"category": "Diverses",
 		"defname": "ShipLandingBeacon"
 	},
-	{
-		"abr": "bodenleuchte(blau)",
-		"price": -10,
-		"category": "Möbel",
-		"defname": "FloorLampB"
-	},
-	{
-		"abr": "bodenleuchte(grün)",
-		"price": -10,
-		"category": "Möbel",
-		"defname": "FloorLampG"
-	},
-	{
-		"abr": "bodenleuchte(rot)",
-		"price": -10,
-		"category": "Möbel",
-		"defname": "FloorLampR"
-	},
+
+
 	{
 		"abr": "autocleaner",
 		"price": 2000,
@@ -3013,5 +2973,5 @@
 		"defname": "Apparel_flyfire2002_MedicBag"
 	},
 	],
-	"total": 504
+	"total": 502
 }
