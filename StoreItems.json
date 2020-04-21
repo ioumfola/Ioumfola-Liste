@@ -289,6 +289,30 @@
 		"defname": "FloorLamp"
 	},
 	{
+		"abr": "bodenlicht(ecke)",
+		"price": 50,
+		"category": "Möbel",
+		"defname": "FloorLightCorner"
+	},
+	{
+		"abr": "bodenlicht(gerade)",
+		"price": 50,
+		"category": "Möbel",
+		"defname": "FloorLightStraight"
+	},
+	{
+		"abr": "bodenlichtpfad(cap)",
+		"price": 500,
+		"category": "Möbel",
+		"defname": "FloorLightPathCap"
+	},
+	{
+		"abr": "bodenlichtpfad(gerade)",
+		"price": 50,
+		"category": "Möbel",
+		"defname": "FloorLightPathStraight"
+	},
+	{
 		"abr": "bohrarm",
 		"price": 750,
 		"category": "Prothetisch",
@@ -2941,12 +2965,29 @@
 		"defname": "ShipLandingBeacon"
 	},
 	{
+		"abr": "autocleaner",
+		"price": 2000,
+		"category": "Gegenstände",
+		"defname": "AutocleanerItem"
+	},
+	{
+		"abr": "boomaphant",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "Boomaphant"
+	},
+	{
+		"abr": "boomaphantfleisch",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Boomaphant"
+	},
+	{
 		"abr": "electricstonecutter'stable",
 		"price": 567,
 		"category": "Produktion",
 		"defname": "TableStonecutterElectric"
 	},
-
 	],
-	"total": 499
+	"total": 500
 }
