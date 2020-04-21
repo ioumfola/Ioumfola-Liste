@@ -2940,38 +2940,13 @@
 		"category": "Diverses",
 		"defname": "ShipLandingBeacon"
 	},
-
-
-	{
-		"abr": "autocleaner",
-		"price": 2000,
-		"category": "Gegenstände",
-		"defname": "AutocleanerItem"
-	},
-	{
-		"abr": "boomaphant",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Boomaphant"
-	},
-	{
-		"abr": "boomaphantfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Boomaphant"
-	},
 	{
 		"abr": "electricstonecutter'stable",
 		"price": 567,
 		"category": "Produktion",
 		"defname": "TableStonecutterElectric"
 	},
-	{
-		"abr": "medicbag",
-		"price": 708,
-		"category": "Kleidung",
-		"defname": "Apparel_flyfire2002_MedicBag"
-	},
+
 	],
 	"total": 499
 }
