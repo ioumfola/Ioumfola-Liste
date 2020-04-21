@@ -57,7 +57,7 @@
 	{
 		"abr": "antimateriegefechtskopf",
 		"price": 2000,
-		"category": "Mörsergranaten",
+		"category": "GW Granaten",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
@@ -284,7 +284,7 @@
 	},
 	{
 		"abr": "bodenleuchte",
-		"price": -10,
+		"price": 100,
 		"category": "Möbel",
 		"defname": "FloorLamp"
 	},
@@ -351,7 +351,7 @@
 	{
 		"abr": "brandgranate",
 		"price": 100,
-		"category": "Mörsergranaten",
+		"category": "GW Granaten",
 		"defname": "Shell_Incendiary"
 	},
 	{
@@ -535,6 +535,12 @@
 		"defname": "Meat_Elk"
 	},
 	{
+		"abr": "electricstonecutter'stable",
+		"price": 500,
+		"category": "Produktion",
+		"defname": "TableStonecutterElectric"
+	},
+	{
 		"abr": "elefant",
 		"price": 1250,
 		"category": "Animal",
@@ -567,7 +573,7 @@
 	{
 		"abr": "emp-granate",
 		"price": 100,
-		"category": "Mörsergranaten",
+		"category": "GW Granaten",
 		"defname": "Shell_EMP"
 	},
 	{
@@ -849,7 +855,7 @@
 	{
 		"abr": "he-granate",
 		"price": 100,
-		"category": "Mörsergranaten",
+		"category": "GW Granaten",
 		"defname": "Shell_HighExplosive"
 	},
 	{
@@ -1323,7 +1329,7 @@
 	{
 		"abr": "löschschaumgranate",
 		"price": 100,
-		"category": "Mörsergranaten",
+		"category": "GW Granaten",
 		"defname": "Shell_Firefoam"
 	},
 	{
@@ -2396,43 +2402,43 @@
 	},
 	{
 		"abr": "stehlampe(blau)",
-		"price": -10,
+		"price": 50,
 		"category": "Möbel",
 		"defname": "StandingLamp_Blue"
 	},
 	{
 		"abr": "stehlampe(grün)",
-		"price": -10,
+		"price": 50,
 		"category": "Möbel",
 		"defname": "StandingLamp_Green"
 	},
 	{
 		"abr": "stehlampe(rot)",
-		"price": -10,
+		"price": 50,
 		"category": "Möbel",
 		"defname": "StandingLamp_Red"
 	},
 	{
 		"abr": "stehlampeled",
-		"price": -10,
+		"price": 125,
 		"category": "Möbel",
 		"defname": "StandingLED"
 	},
 	{
 		"abr": "stehlampeled(blau)",
-		"price": -10,
+		"price": 125,
 		"category": "Möbel",
 		"defname": "StandingLED_Blue"
 	},
 	{
 		"abr": "stehlampeled(grün)",
-		"price": -10,
+		"price": 125,
 		"category": "Möbel",
 		"defname": "StandingLED_Green"
 	},
 	{
 		"abr": "stehlampeled(rot)",
-		"price": -10,
+		"price": 125,
 		"category": "Möbel",
 		"defname": "StandingLED_Red"
 	},
@@ -2957,19 +2963,7 @@
 		"price": 107,
 		"category": "Spezial",
 		"defname": "UnstablePowerCell"
-	},
-	{
-		"abr": "boomaphant",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Boomaphant"
-	},
-	{
-		"abr": "boomaphantfleisch",
-		"price": 3,
-		"category": "Fleisch",
-		"defname": "Meat_Boomaphant"
-	},
+	}
 	],
-	"total": 497
+	"total": 494
 }
