@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 750,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "klareswetter",
 		"price": 100,
 		"karmatype": "Good"
@@ -136,6 +126,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "verrücktestier",
 		"price": 250,
 		"karmatype": "Bad"
@@ -201,6 +196,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "angriff",
 		"price": 500,
 		"karmatype": "Bad"
@@ -256,11 +256,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "levelskill",
-		"price": 100,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "erhalteeigenschaft",
 		"price": 2000,
 		"karmatype": "Good"
@@ -281,5 +276,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 56
+	"total": 55
 }
