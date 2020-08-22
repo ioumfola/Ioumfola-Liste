@@ -107,12 +107,12 @@
 	},
 	{
 		"abr": "rettungskapsel",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "karawane",
-		"price": 250,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -122,12 +122,12 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 250,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -197,7 +197,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -257,12 +257,12 @@
 	},
 	{
 		"abr": "erhalteeigenschaft",
-		"price": 2000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "entferneeigenschaft",
-		"price": 2500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
