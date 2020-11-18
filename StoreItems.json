@@ -25,6 +25,12 @@
 		"defname": "Table3x3c"
 	},
 	{
+		"abr": "aberrantfleshbeast",
+		"price": 17,
+		"category": "Animal",
+		"defname": "GR_AberrantFleshbeast"
+	},
+	{
 		"abr": "aberrantfleshbeastfleisch",
 		"price": 3,
 		"category": "Fleisch",
@@ -35,6 +41,12 @@
 		"price": 1233,
 		"category": "Produktion",
 		"defname": "GR_AdvancedGenePod"
+	},
+	{
+		"abr": "affe",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Monkey"
 	},
 	{
 		"abr": "affenfleisch",
@@ -55,6 +67,12 @@
 		"defname": "GR_AgePills"
 	},
 	{
+		"abr": "alpaka",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Alpaca"
+	},
+	{
 		"abr": "alpakafleisch",
 		"price": 3,
 		"category": "Fleisch",
@@ -65,6 +83,12 @@
 		"price": 4,
 		"category": "Textilien",
 		"defname": "WoolAlpaca"
+	},
+	{
+		"abr": "alphabiber",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Alphabeaver"
 	},
 	{
 		"abr": "ambrosia",
@@ -469,10 +493,28 @@
 		"defname": "GR_BearSerum"
 	},
 	{
+		"abr": "bearalope",
+		"price": 917,
+		"category": "Animal",
+		"defname": "GR_Bearalope"
+	},
+	{
+		"abr": "bearcat",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Bearcat"
+	},
+	{
 		"abr": "bearcatpelt",
 		"price": 250,
 		"category": "Rohstoffe",
 		"defname": "GR_HugeBearCatPelt"
+	},
+	{
+		"abr": "bearchicken",
+		"price": 167,
+		"category": "Animal",
+		"defname": "GR_Bearchicken"
 	},
 	{
 		"abr": "bearchickenegg(fert.)",
@@ -493,16 +535,52 @@
 		"defname": "GR_BearffaloMilk"
 	},
 	{
+		"abr": "bearffalo",
+		"price": 833,
+		"category": "Animal",
+		"defname": "GR_Bearffalo"
+	},
+	{
 		"abr": "bearffalowool",
 		"price": 4,
 		"category": "Textilien",
 		"defname": "GR_BearffaloWool"
 	},
 	{
+		"abr": "bearmole",
+		"price": 450,
+		"category": "Animal",
+		"defname": "GR_Bearmole"
+	},
+	{
+		"abr": "bearodile",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Bearodile"
+	},
+	{
+		"abr": "bearscarab",
+		"price": 750,
+		"category": "Animal",
+		"defname": "GR_Bearscarab"
+	},
+	{
+		"abr": "bearwolf",
+		"price": 617,
+		"category": "Animal",
+		"defname": "GR_Bearwolf"
+	},
+	{
 		"abr": "bearwolffangs",
 		"price": 1250,
 		"category": "Rohstoffe",
 		"defname": "GR_BearwolfFangs"
+	},
+	{
+		"abr": "beaverwolf",
+		"price": 458,
+		"category": "Animal",
+		"defname": "GR_Beaverwolf"
 	},
 	{
 		"abr": "beaverwolfcastoreum",
@@ -607,6 +685,12 @@
 		"defname": "BionicEar"
 	},
 	{
+		"abr": "bison",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Bison"
+	},
+	{
 		"abr": "bisonfleisch",
 		"price": 3,
 		"category": "Fleisch",
@@ -643,6 +727,24 @@
 		"defname": "DrillArm"
 	},
 	{
+		"abr": "boomabear",
+		"price": 417,
+		"category": "Animal",
+		"defname": "GR_Boomabear"
+	},
+	{
+		"abr": "boomacat",
+		"price": 417,
+		"category": "Animal",
+		"defname": "GR_Boomacat"
+	},
+	{
+		"abr": "boomachicken",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Boomachicken"
+	},
+	{
 		"abr": "boomachickenegg(fert.)",
 		"price": 12,
 		"category": "Ei (befr.)",
@@ -653,6 +755,12 @@
 		"price": 12,
 		"category": "Ei (unbefr.)",
 		"defname": "GR_BoomachickenEggUnfertilized"
+	},
+	{
+		"abr": "boomalope",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Boomalope"
 	},
 	{
 		"abr": "boomalope/bearincubator",
@@ -781,16 +889,52 @@
 		"defname": "Meat_Boomalope"
 	},
 	{
+		"abr": "boombeetle",
+		"price": 750,
+		"category": "Animal",
+		"defname": "GR_Boombeetle"
+	},
+	{
+		"abr": "boomffalo",
+		"price": 383,
+		"category": "Animal",
+		"defname": "GR_Boomffalo"
+	},
+	{
 		"abr": "boomffalowool",
 		"price": 4,
 		"category": "Textilien",
 		"defname": "GR_BoomffaloWool"
 	},
 	{
+		"abr": "boomratte",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Boomrat"
+	},
+	{
 		"abr": "boomrattenfleisch",
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Boomrat"
+	},
+	{
+		"abr": "boomsnake",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Boomsnake"
+	},
+	{
+		"abr": "boomsquirrel",
+		"price": 208,
+		"category": "Animal",
+		"defname": "GR_Boomsquirrel"
+	},
+	{
+		"abr": "boomwolf",
+		"price": 417,
+		"category": "Animal",
+		"defname": "GR_Boomwolf"
 	},
 	{
 		"abr": "brandgeschosswerfer",
@@ -865,6 +1009,24 @@
 		"defname": "Apparel_CatOfPreyArmor"
 	},
 	{
+		"abr": "catalope",
+		"price": 208,
+		"category": "Animal",
+		"defname": "GR_Catalope"
+	},
+	{
+		"abr": "catbear",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Catbear"
+	},
+	{
+		"abr": "catchicken",
+		"price": 183,
+		"category": "Animal",
+		"defname": "GR_Catchicken"
+	},
+	{
 		"abr": "catchickenegg(fert.)",
 		"price": 12,
 		"category": "Ei (befr.)",
@@ -875,6 +1037,24 @@
 		"price": 12,
 		"category": "Ei (unbefr.)",
 		"defname": "GR_CatchickenEggUnfertilized"
+	},
+	{
+		"abr": "catfallo",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Catfallo"
+	},
+	{
+		"abr": "catrabbit",
+		"price": 200,
+		"category": "Animal",
+		"defname": "GR_Catrabbit"
+	},
+	{
+		"abr": "catwolf",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Catwolf"
 	},
 	{
 		"abr": "cembalo",
@@ -985,6 +1165,12 @@
 		"defname": "GR_ChickenSerum"
 	},
 	{
+		"abr": "chickenbear",
+		"price": 192,
+		"category": "Animal",
+		"defname": "GR_Chickenbear"
+	},
+	{
 		"abr": "chickenbearegg(fert.)",
 		"price": 12,
 		"category": "Ei (befr.)",
@@ -997,6 +1183,12 @@
 		"defname": "GR_ChickenbearEggUnfertilized"
 	},
 	{
+		"abr": "chickencat",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Chickencat"
+	},
+	{
 		"abr": "chickencategg(fert.)",
 		"price": 12,
 		"category": "Ei (befr.)",
@@ -1007,6 +1199,12 @@
 		"price": 12,
 		"category": "Ei (unbefr.)",
 		"defname": "GR_ChickencatEggUnfertilized"
+	},
+	{
+		"abr": "chickenffalo",
+		"price": 292,
+		"category": "Animal",
+		"defname": "GR_Chickenffalo"
 	},
 	{
 		"abr": "chickenffaloegg(fert.)",
@@ -1033,6 +1231,12 @@
 		"defname": "GR_ChickenffaloWool"
 	},
 	{
+		"abr": "chickenlizard",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Chickenlizard"
+	},
+	{
 		"abr": "chickenlizardegg(fert.)",
 		"price": 12,
 		"category": "Ei (befr.)",
@@ -1043,6 +1247,12 @@
 		"price": 12,
 		"category": "Ei (unbefr.)",
 		"defname": "GR_ChickenlizardEggUnfertilized"
+	},
+	{
+		"abr": "chickenlope",
+		"price": 158,
+		"category": "Animal",
+		"defname": "GR_Chickenlope"
 	},
 	{
 		"abr": "chickenlopeegg(fert.)",
@@ -1057,6 +1267,12 @@
 		"defname": "GR_ChickenlopeEggUnfertilized"
 	},
 	{
+		"abr": "chickenrabbit",
+		"price": 75,
+		"category": "Animal",
+		"defname": "GR_Chickenrabbit"
+	},
+	{
 		"abr": "chickenrabbitegg(fert.)",
 		"price": 15,
 		"category": "Ei (befr.)",
@@ -1067,6 +1283,12 @@
 		"price": 15,
 		"category": "Ei (unbefr.)",
 		"defname": "GR_ChickenrabbitEggUnfertilized"
+	},
+	{
+		"abr": "chickenspider",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Chickenspider"
 	},
 	{
 		"abr": "chickenspideregg(fert.)",
@@ -1087,6 +1309,12 @@
 		"defname": "GR_ChickenspiderSilk"
 	},
 	{
+		"abr": "chickenwolf",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Chickenwolf"
+	},
+	{
 		"abr": "chickenwolfegg(fert.)",
 		"price": 12,
 		"category": "Ei (befr.)",
@@ -1098,7 +1326,12 @@
 		"category": "Ei (unbefr.)",
 		"defname": "GR_ChickenwolfEggUnfertilized"
 	},
-
+	{
+		"abr": "chinchilla",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Chinchilla"
+	},
 	{
 		"abr": "chinchillafell",
 		"price": 11,
@@ -1250,6 +1483,12 @@
 		"defname": "DrugLab"
 	},
 	{
+		"abr": "dromedar",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Dromedary"
+	},
+	{
 		"abr": "dromedarfleisch",
 		"price": 3,
 		"category": "Fleisch",
@@ -1266,6 +1505,12 @@
 		"price": 3,
 		"category": "Leder",
 		"defname": "Leather_Lizard"
+	},
+	{
+		"abr": "eichhörnchen",
+		"price": 58,
+		"category": "Animal",
+		"defname": "Squirrel"
 	},
 	{
 		"abr": "eichhörnchenfleisch",
@@ -1298,6 +1543,18 @@
 		"defname": "HandTailoringBench"
 	},
 	{
+		"abr": "eisbär",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "Bear_Polar"
+	},
+	{
+		"abr": "elch",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Elk"
+	},
+	{
 		"abr": "elchfleisch",
 		"price": 3,
 		"category": "Fleisch",
@@ -1314,6 +1571,12 @@
 		"price": 567,
 		"category": "Produktion",
 		"defname": "TableStonecutterElectric"
+	},
+	{
+		"abr": "elefant",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "Elephant"
 	},
 	{
 		"abr": "elefantenfleisch",
@@ -1430,6 +1693,12 @@
 		"defname": "GR_EmptyIncubator"
 	},
 	{
+		"abr": "emu",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Emu"
+	},
+	{
 		"abr": "emufatointment",
 		"price": 68,
 		"category": "Medizin",
@@ -1454,6 +1723,12 @@
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
+		"abr": "ente",
+		"price": 100,
+		"category": "Animal",
+		"defname": "Duck"
+	},
+	{
 		"abr": "entenei(befr.)",
 		"price": 12,
 		"category": "Ei (befr.)",
@@ -1476,6 +1751,12 @@
 		"price": 1717,
 		"category": "Bionisch",
 		"defname": "DetoxifierStomach"
+	},
+	{
+		"abr": "esel",
+		"price": 533,
+		"category": "Animal",
+		"defname": "Donkey"
 	},
 	{
 		"abr": "eselfleisch",
@@ -1658,6 +1939,12 @@
 		"defname": "Leather_Fox"
 	},
 	{
+		"abr": "gans",
+		"price": 150,
+		"category": "Animal",
+		"defname": "Goose"
+	},
+	{
 		"abr": "gänseei(befr.)",
 		"price": 18,
 		"category": "Ei (befr.)",
@@ -1676,10 +1963,64 @@
 		"defname": "FermentingBarrel"
 	},
 	{
+		"abr": "gäste-bett",
+		"price": 155,
+		"category": "Möbel",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "gäste-doppelbett",
+		"price": 292,
+		"category": "Möbel",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "gäste-doppelschlafsack",
+		"price": 290,
+		"category": "Möbel",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "gäste-intensivbett",
+		"price": 667,
+		"category": "Möbel",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "gäste-königlichesbett",
+		"price": 1467,
+		"category": "Möbel",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "gäste-medpodlux",
+		"price": 12500,
+		"category": "Möbel",
+		"defname": "MedPodLuxGuest"
+	},
+	{
+		"abr": "gäste-medpodlux",
+		"price": 8333,
+		"category": "Möbel",
+		"defname": "MedPodStandardGuest"
+	},
+	{
+		"abr": "gäste-schlafsack",
+		"price": 137,
+		"category": "Möbel",
+		"defname": "BedrollGuest"
+	},
+	{
 		"abr": "gastro-analysator",
 		"price": 1383,
 		"category": "Bionisch",
 		"defname": "GastroAnalyzer"
+	},
+	{
+		"abr": "gazelle",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Gazelle"
 	},
 	{
 		"abr": "gazellenfleisch",
@@ -1796,6 +2137,12 @@
 		"defname": "Apparel_ArmorMarineGrenadier"
 	},
 	{
+		"abr": "grizzlybär",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "Bear_Grizzly"
+	},
+	{
 		"abr": "großeskulptur",
 		"price": 517,
 		"category": "Kunst",
@@ -1848,6 +2195,12 @@
 		"price": 408,
 		"category": "Entspannung",
 		"defname": "Harp"
+	},
+	{
+		"abr": "hase",
+		"price": 83,
+		"category": "Animal",
+		"defname": "Hare"
 	},
 	{
 		"abr": "hasenfleisch",
@@ -1910,6 +2263,12 @@
 		"defname": "Stool"
 	},
 	{
+		"abr": "höhlenkäfer",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Spelopede"
+	},
+	{
 		"abr": "holz",
 		"price": 2,
 		"category": "Rohstoffe",
@@ -1956,6 +2315,12 @@
 		"price": 167,
 		"category": "Rohstoffe",
 		"defname": "GR_HugeRhinoHorn"
+	},
+	{
+		"abr": "huhn",
+		"price": 83,
+		"category": "Animal",
+		"defname": "Chicken"
 	},
 	{
 		"abr": "hühnerei(befr.)",
@@ -2136,6 +2501,12 @@
 		"price": 3,
 		"category": "Leder",
 		"defname": "Leather_Dog"
+	},
+	{
+		"abr": "husky",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Husky"
 	},
 	{
 		"abr": "huskyfleisch",
@@ -2432,6 +2803,12 @@
 		"defname": "RawPotatoes"
 	},
 	{
+		"abr": "kasuar",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Cassowary"
+	},
+	{
 		"abr": "kasuarei(befr.)",
 		"price": 32,
 		"category": "Ei (befr.)",
@@ -2448,6 +2825,12 @@
 		"price": 5200,
 		"category": "Rüstung",
 		"defname": "Apparel_ArmorCataphract"
+	},
+	{
+		"abr": "katze",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Cat"
 	},
 	{
 		"abr": "katzenfleisch",
@@ -2484,6 +2867,12 @@
 		"price": 141,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_Club"
+	},
+	{
+		"abr": "kobra",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Cobra"
 	},
 	{
 		"abr": "kobra-ei(befr.)",
@@ -2588,6 +2977,12 @@
 		"defname": "Meat_LabradorRetriever"
 	},
 	{
+		"abr": "labrador-retriever",
+		"price": 417,
+		"category": "Animal",
+		"defname": "LabradorRetriever"
+	},
+	{
 		"abr": "langbogen",
 		"price": 174,
 		"category": "Fernkampfwaffen",
@@ -2610,6 +3005,12 @@
 		"price": 33,
 		"category": "Mahlzeiten",
 		"defname": "MealFine"
+	},
+	{
+		"abr": "leguan",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Iguana"
 	},
 	{
 		"abr": "leguanei(befr.)",
@@ -2670,6 +3071,12 @@
 		"price": 717,
 		"category": "Hilfsmittel",
 		"defname": "Apparel_PackBroadshield"
+	},
+	{
+		"abr": "luchs",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Lynx"
 	},
 	{
 		"abr": "luchsfleisch",
@@ -2738,10 +3145,22 @@
 		"defname": "Gun_MachinePistol"
 	},
 	{
+		"abr": "mechabear",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "GR_Mechabear"
+	},
+	{
 		"abr": "mechabearfleisch",
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_GR_Mechabear"
+	},
+	{
+		"abr": "mechacat",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "GR_Mechacat"
 	},
 	{
 		"abr": "mechacatfleisch",
@@ -2750,16 +3169,34 @@
 		"defname": "Meat_GR_Mechacat"
 	},
 	{
+		"abr": "mecha-chicken",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "GR_Mechachicken"
+	},
+	{
 		"abr": "mecha-chickenfleisch",
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_GR_Mechachicken"
 	},
 	{
+		"abr": "mechalope",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "GR_Mechalope"
+	},
+	{
 		"abr": "mechalopefleisch",
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_GR_Mechalope"
+	},
+	{
+		"abr": "mecha-muffalo",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "GR_Mechamuffalo"
 	},
 	{
 		"abr": "mecha-muffalofleisch",
@@ -2870,11 +3307,22 @@
 		"defname": "GR_MechaWool"
 	},
 	{
+		"abr": "mecha-rat",
+		"price": 833,
+		"category": "Animal",
+		"defname": "GR_Mecharat"
+	},
+	{
 		"abr": "mecha-ratfleisch",
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_GR_Mecharat"
 	},
+	{
+		"abr": "mechaspider",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "GR_Mechaspider"
 	},
 	{
 		"abr": "mechaspiderfleisch",
@@ -2944,9 +3392,21 @@
 	},
 	{
 		"abr": "medpodlux",
+		"price": 12500,
+		"category": "Möbel",
+		"defname": "MedPodLux"
+	},
+	{
+		"abr": "medpodlux",
 		"price": 8333,
 		"category": "Möbel",
 		"defname": "MedPodStandard"
+	},
+	{
+		"abr": "meerschweinchen",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GuineaPig"
 	},
 	{
 		"abr": "meerschweinchenfell",
@@ -3009,6 +3469,12 @@
 		"defname": "RimFridge_SingleRefrigerator"
 	},
 	{
+		"abr": "molebear",
+		"price": 458,
+		"category": "Animal",
+		"defname": "GR_Molebear"
+	},
+	{
 		"abr": "molotowcocktails",
 		"price": 408,
 		"category": "Granaten",
@@ -3025,6 +3491,12 @@
 		"price": 1058,
 		"category": "Sicherheit",
 		"defname": "Turret_Mortar"
+	},
+	{
+		"abr": "muffalo",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Muffalo"
 	},
 	{
 		"abr": "muffalo/bearincubator",
@@ -3123,10 +3595,28 @@
 		"defname": "GR_MuffaloRug"
 	},
 	{
+		"abr": "muffalobear",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Muffalobear"
+	},
+	{
 		"abr": "muffalobearmilk",
 		"price": 7,
 		"category": "Tierische Produkte",
 		"defname": "GR_MuffalobearMilk"
+	},
+	{
+		"abr": "muffalocat",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Muffalocat"
+	},
+	{
+		"abr": "muffalochicken",
+		"price": 417,
+		"category": "Animal",
+		"defname": "GR_Muffalochicken"
 	},
 	{
 		"abr": "muffalochickenegg(fert.)",
@@ -3159,6 +3649,18 @@
 		"defname": "Meat_Muffalo"
 	},
 	{
+		"abr": "muffalokomodo",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "GR_Muffalokomodo"
+	},
+	{
+		"abr": "muffalope",
+		"price": 583,
+		"category": "Animal",
+		"defname": "GR_Muffalope"
+	},
+	{
 		"abr": "muffalopemilk",
 		"price": 6,
 		"category": "Tierische Produkte",
@@ -3171,10 +3673,28 @@
 		"defname": "GR_MuffalopeWool"
 	},
 	{
+		"abr": "muffalopede",
+		"price": 833,
+		"category": "Animal",
+		"defname": "GR_Muffalopede"
+	},
+	{
 		"abr": "muffalopedewool",
 		"price": 4,
 		"category": "Textilien",
 		"defname": "GR_MuffalopedeChitin"
+	},
+	{
+		"abr": "muffalorat",
+		"price": 175,
+		"category": "Animal",
+		"defname": "GR_Muffalorat"
+	},
+	{
+		"abr": "muffalowolf",
+		"price": 750,
+		"category": "Animal",
+		"defname": "GR_Muffalowolf"
 	},
 	{
 		"abr": "muffalowolfwool",
@@ -3223,6 +3743,12 @@
 		"price": 15,
 		"category": "Textilien",
 		"defname": "Hyperweave"
+	},
+	{
+		"abr": "nashorn",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "Rhinoceros"
 	},
 	{
 		"abr": "nashornfleisch",
@@ -3309,10 +3835,22 @@
 		"defname": "GR_Owlbearfeathers"
 	},
 	{
+		"abr": "panther",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Panther"
+	},
+	{
 		"abr": "pantherfleisch",
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Panther"
+	},
+	{
+		"abr": "paragonbear",
+		"price": 2333,
+		"category": "Animal",
+		"defname": "GR_AlphaBear"
 	},
 	{
 		"abr": "paragonbearincubator",
@@ -3327,10 +3865,22 @@
 		"defname": "GR_AlphaBoarTusks"
 	},
 	{
+		"abr": "paragonboomalope",
+		"price": 967,
+		"category": "Animal",
+		"defname": "GR_AlphaBoomalope"
+	},
+	{
 		"abr": "paragonboomalopeincubator",
 		"price": 75,
 		"category": "Incubators",
 		"defname": "GR_AlphaBoomalopeIncubator"
+	},
+	{
+		"abr": "paragonchicken",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_AlphaChicken"
 	},
 	{
 		"abr": "paragonchickenegg(fert.)",
@@ -3357,6 +3907,12 @@
 		"defname": "Meat_GR_AlphaChicken"
 	},
 	{
+		"abr": "paragonemu",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "GR_AlphaEmu"
+	},
+	{
 		"abr": "paragonemuegg(fert.)",
 		"price": 25,
 		"category": "Ei (befr.)",
@@ -3375,10 +3931,22 @@
 		"defname": "GR_AlphaEmuIncubator"
 	},
 	{
+		"abr": "paragonhare",
+		"price": 200,
+		"category": "Animal",
+		"defname": "GR_AlphaHare"
+	},
+	{
 		"abr": "paragonhareincubator",
 		"price": 75,
 		"category": "Incubators",
 		"defname": "GR_AlphaHareIncubator"
+	},
+	{
+		"abr": "paragoniguana",
+		"price": 333,
+		"category": "Animal",
+		"defname": "GR_AlphaIguana"
 	},
 	{
 		"abr": "paragoniguanaegg(fert.)",
@@ -3399,10 +3967,22 @@
 		"defname": "GR_AlphaIguanaIncubator"
 	},
 	{
+		"abr": "paragonmuffalo",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "GR_AlphaMuffalo"
+	},
+	{
 		"abr": "paragonmuffaloincubator",
 		"price": 75,
 		"category": "Incubators",
 		"defname": "GR_AlphaMuffaloIncubator"
+	},
+	{
+		"abr": "paragonostrich",
+		"price": 1200,
+		"category": "Animal",
+		"defname": "GR_AlphaOstrich"
 	},
 	{
 		"abr": "paragonostrichegg(fert.)",
@@ -3423,10 +4003,22 @@
 		"defname": "GR_AlphaOstrichIncubator"
 	},
 	{
+		"abr": "paragonpig",
+		"price": 933,
+		"category": "Animal",
+		"defname": "GR_AlphaPig"
+	},
+	{
 		"abr": "paragonpigincubator",
 		"price": 75,
 		"category": "Incubators",
 		"defname": "GR_AlphaPigIncubator"
+	},
+	{
+		"abr": "paragonrat",
+		"price": 200,
+		"category": "Animal",
+		"defname": "GR_AlphaRat"
 	},
 	{
 		"abr": "paragonratincubator",
@@ -3441,10 +4033,28 @@
 		"defname": "GR_AlphaRhinoIncubator"
 	},
 	{
+		"abr": "paragonrhinoceros",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "GR_AlphaRhinoceros"
+	},
+	{
 		"abr": "paragonserumextractiontable",
 		"price": 433,
 		"category": "Produktion",
 		"defname": "GR_AlphaSerumExtractionTable"
+	},
+	{
+		"abr": "paragontimberwolf",
+		"price": 1233,
+		"category": "Animal",
+		"defname": "GR_AlphaWolfTimber"
+	},
+	{
+		"abr": "paragontortoise",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_AlphaTortoise"
 	},
 	{
 		"abr": "paragontortoiseegg(fert.)",
@@ -3463,6 +4073,12 @@
 		"price": 75,
 		"category": "Incubators",
 		"defname": "GR_AlphaTortoiseIncubator"
+	},
+	{
+		"abr": "paragonwildboar",
+		"price": 583,
+		"category": "Animal",
+		"defname": "GR_AlphaWildBoar"
 	},
 	{
 		"abr": "paragonwildboarincubator",
@@ -3523,6 +4139,12 @@
 		"price": 83,
 		"category": "[Animal Apparel]",
 		"defname": "Apparel_AnimalScarf"
+	},
+	{
+		"abr": "pferd",
+		"price": 917,
+		"category": "Animal",
+		"defname": "Horse"
 	},
 	{
 		"abr": "pferdefleisch",
@@ -3589,6 +4211,18 @@
 		"price": 400,
 		"category": "Möbel",
 		"defname": "PokerTable"
+	},
+	{
+		"abr": "polarfuchs",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Fox_Arctic"
+	},
+	{
+		"abr": "polarwolf",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Wolf_Arctic"
 	},
 	{
 		"abr": "power-kralle",
@@ -3843,10 +4477,22 @@
 		"defname": "GR_Pulper"
 	},
 	{
+		"abr": "puma",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Cougar"
+	},
+	{
 		"abr": "pumafleisch",
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Cougar"
+	},
+	{
+		"abr": "rabbitcat",
+		"price": 958,
+		"category": "Animal",
+		"defname": "GR_Rabbitcat"
 	},
 	{
 		"abr": "rabbitcatfangs",
@@ -3855,16 +4501,34 @@
 		"defname": "GR_RabbitcatFangs"
 	},
 	{
+		"abr": "rabbitchicken",
+		"price": 25,
+		"category": "Animal",
+		"defname": "GR_Rabbitchicken"
+	},
+	{
 		"abr": "ratparagonserum",
 		"price": 17,
 		"category": "Paragon serums",
 		"defname": "GR_RatSerum"
 	},
 	{
+		"abr": "ratfallo",
+		"price": 175,
+		"category": "Animal",
+		"defname": "GR_Ratfallo"
+	},
+	{
 		"abr": "ratfallomilk",
 		"price": 5,
 		"category": "Tierische Produkte",
 		"defname": "GR_RatMilk"
+	},
+	{
+		"abr": "ratte",
+		"price": 58,
+		"category": "Animal",
+		"defname": "Rat"
 	},
 	{
 		"abr": "rattenfleisch",
@@ -3937,6 +4601,12 @@
 		"price": 2,
 		"category": "Vegetarisch",
 		"defname": "RawRice"
+	},
+	{
+		"abr": "rentier",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Caribou"
 	},
 	{
 		"abr": "rentierfleisch",
@@ -4029,10 +4699,34 @@
 		"defname": "GR_RhinoSerum"
 	},
 	{
+		"abr": "riesenfaultier",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "Megasloth"
+	},
+	{
 		"abr": "riesenflachbildfernseher",
 		"price": 2475,
 		"category": "Entspannung",
 		"defname": "MegascreenTelevision"
+	},
+	{
+		"abr": "riesenskarabäus",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Megascarab"
+	},
+	{
+		"abr": "riesenspinne",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Megaspider"
+	},
+	{
+		"abr": "rind",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Cow"
 	},
 	{
 		"abr": "rindfleisch",
@@ -4051,6 +4745,18 @@
 		"price": 525,
 		"category": "Entspannung",
 		"defname": "TubeTelevision"
+	},
+	{
+		"abr": "rotfuchs",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Fox_Red"
+	},
+	{
+		"abr": "rotwild",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Deer"
 	},
 	{
 		"abr": "royaljelly",
@@ -4089,6 +4795,12 @@
 		"defname": "ChessTable"
 	},
 	{
+		"abr": "schaf",
+		"price": 350,
+		"category": "Animal",
+		"defname": "Sheep"
+	},
+	{
 		"abr": "schaffleisch",
 		"price": 3,
 		"category": "Fleisch",
@@ -4117,6 +4829,12 @@
 		"price": 583,
 		"category": "Objekte",
 		"defname": "BroadshieldCore"
+	},
+	{
+		"abr": "schildkröte",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Tortoise"
 	},
 	{
 		"abr": "schildkrötenei(befr.)",
@@ -4153,6 +4871,12 @@
 		"price": 367,
 		"category": "Prothetisch",
 		"defname": "Painstopper"
+	},
+	{
+		"abr": "schneehase",
+		"price": 83,
+		"category": "Animal",
+		"defname": "Snowhare"
 	},
 	{
 		"abr": "schockverursachendepsycholanze",
@@ -4195,6 +4919,12 @@
 		"price": 375,
 		"category": "Rüstung",
 		"defname": "Apparel_FlakVest"
+	},
+	{
+		"abr": "schwein",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Pig"
 	},
 	{
 		"abr": "schweinefleisch",
@@ -4245,6 +4975,12 @@
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
+		"abr": "snakecat",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Snakecat"
+	},
+	{
 		"abr": "sonnenlampe",
 		"price": 129,
 		"category": "Möbel",
@@ -4255,6 +4991,18 @@
 		"price": 322,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_Spear"
+	},
+	{
+		"abr": "spidercat",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Spidercat"
+	},
+	{
+		"abr": "spidersnake",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "GR_Spidersnake"
 	},
 	{
 		"abr": "spidersnakeegg(fert.)",
@@ -4291,6 +5039,12 @@
 		"price": 442,
 		"category": "Granaten",
 		"defname": "Weapon_GrenadeFrag"
+	},
+	{
+		"abr": "squirralope",
+		"price": 167,
+		"category": "Animal",
+		"defname": "GR_Squirralope"
 	},
 	{
 		"abr": "squirralopehorn",
@@ -4365,6 +5119,12 @@
 		"defname": "StandingLamp_Red"
 	},
 	{
+		"abr": "steinbock",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Ibex"
+	},
+	{
 		"abr": "steinbockfleisch",
 		"price": 3,
 		"category": "Fleisch",
@@ -4393,6 +5153,12 @@
 		"price": 2,
 		"category": "Textilien",
 		"defname": "Cloth"
+	},
+	{
+		"abr": "strauß",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Ostrich"
 	},
 	{
 		"abr": "straußenei(befr.)",
@@ -4605,6 +5371,12 @@
 		"defname": "GR_ThrumboGenetic"
 	},
 	{
+		"abr": "thrumbocat",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "GR_Thrumbocat"
+	},
+	{
 		"abr": "thrumbochicken",
 		"price": 5000,
 		"category": "Animal",
@@ -4641,6 +5413,30 @@
 		"defname": "ThrumboHorn"
 	},
 	{
+		"abr": "thrumbolizard",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "GR_Thrumbolizard"
+	},
+	{
+		"abr": "thrumborat",
+		"price": 4000,
+		"category": "Animal",
+		"defname": "GR_Thrumborat"
+	},
+	{
+		"abr": "thrumbospider",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "GR_Thrumbospider"
+	},
+	{
+		"abr": "thrumffalo",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "GR_Thrumffalo"
+	},
+	{
 		"abr": "thrumffalomilk",
 		"price": 10,
 		"category": "Tierische Produkte",
@@ -4651,6 +5447,12 @@
 		"price": 4,
 		"category": "Textilien",
 		"defname": "GR_ThrumffaloWool"
+	},
+	{
+		"abr": "thrumwolf",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "GR_Thrumwolf"
 	},
 	{
 		"abr": "tiefenbohrer",
@@ -4677,6 +5479,12 @@
 		"defname": "AnimalSleepingBox"
 	},
 	{
+		"abr": "timberwolf",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Wolf_Timber"
+	},
+	{
 		"abr": "tissuegrowingvat",
 		"price": 600,
 		"category": "Produktion",
@@ -4693,6 +5501,12 @@
 		"price": 2,
 		"category": "Nahrung",
 		"defname": "Kibble"
+	},
+	{
+		"abr": "truthahn",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Turkey"
 	},
 	{
 		"abr": "truthahnei(befr.)",
@@ -4947,6 +5761,12 @@
 		"defname": "Lighting_MURWallLightRed"
 	},
 	{
+		"abr": "warg",
+		"price": 750,
+		"category": "Animal",
+		"defname": "Warg"
+	},
+	{
 		"abr": "wargarmor",
 		"price": 792,
 		"category": "Kopfbedeckung",
@@ -4959,10 +5779,22 @@
 		"defname": "Meat_Warg"
 	},
 	{
+		"abr": "waschbär",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Raccoon"
+	},
+	{
 		"abr": "waschbärenfleisch",
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Raccoon"
+	},
+	{
+		"abr": "wasserschwein",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Capybara"
 	},
 	{
 		"abr": "wasserschweinfleisch",
@@ -4999,6 +5831,12 @@
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Deer"
+	},
+	{
+		"abr": "wildschwein",
+		"price": 333,
+		"category": "Animal",
+		"defname": "WildBoar"
 	},
 	{
 		"abr": "wolf/bearincubator",
@@ -5085,10 +5923,40 @@
 		"defname": "GR_WolfRug"
 	},
 	{
+		"abr": "wolfalope",
+		"price": 617,
+		"category": "Animal",
+		"defname": "GR_Wolfalope"
+	},
+	{
+		"abr": "wolfbear",
+		"price": 617,
+		"category": "Animal",
+		"defname": "GR_Wolfbear"
+	},
+	{
 		"abr": "wolfbearpaws",
 		"price": 750,
 		"category": "Rohstoffe",
 		"defname": "GR_WolfbearPaws"
+	},
+	{
+		"abr": "wolfbeaver",
+		"price": 458,
+		"category": "Animal",
+		"defname": "GR_Wolfbeaver"
+	},
+	{
+		"abr": "wolfcat",
+		"price": 617,
+		"category": "Animal",
+		"defname": "GR_Wolfcat"
+	},
+	{
+		"abr": "wolfchicken",
+		"price": 617,
+		"category": "Animal",
+		"defname": "GR_Wolfchicken"
 	},
 	{
 		"abr": "wolfchickenegg(fert.)",
@@ -5109,6 +5977,12 @@
 		"defname": "GR_WolfchickenFeathers"
 	},
 	{
+		"abr": "wolffalo",
+		"price": 617,
+		"category": "Animal",
+		"defname": "GR_Wolffalo"
+	},
+	{
 		"abr": "wolffalomilk",
 		"price": 2,
 		"category": "Tierische Produkte",
@@ -5119,6 +5993,12 @@
 		"price": 4,
 		"category": "Textilien",
 		"defname": "GR_WolffaloWool"
+	},
+	{
+		"abr": "wolfscarab",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Wolfscarab"
 	},
 	{
 		"abr": "wolfsfell",
@@ -5133,6 +6013,12 @@
 		"defname": "Meat_Wolf_Timber"
 	},
 	{
+		"abr": "wolfsnake",
+		"price": 750,
+		"category": "Animal",
+		"defname": "GR_Wolfsnake"
+	},
+	{
 		"abr": "wolfsnakeskin",
 		"price": 8,
 		"category": "Textilien",
@@ -5143,6 +6029,18 @@
 		"price": 67,
 		"category": "Entspannung",
 		"defname": "HoopstoneRing"
+	},
+	{
+		"abr": "wüstenfuchs",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Fox_Fennec"
+	},
+	{
+		"abr": "yak",
+		"price": 533,
+		"category": "Animal",
+		"defname": "Yak"
 	},
 	{
 		"abr": "yakfleisch",
@@ -5163,10 +6061,22 @@
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
+		"abr": "yorkshireterrier",
+		"price": 167,
+		"category": "Animal",
+		"defname": "YorkshireTerrier"
+	},
+	{
 		"abr": "zeushammer",
 		"price": 3333,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "ziege",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Goat"
 	},
 	{
 		"abr": "ziegenfleisch",
@@ -5197,7 +6107,7 @@
 		"price": 203,
 		"category": "Kopfbedeckung",
 		"defname": "Apparel_HatTop"
-	},
+	}
 	],
-	"total": 1011
+	"total": 1018
 }
